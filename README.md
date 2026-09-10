@@ -6,7 +6,7 @@ I'm interested in software development and machine learning, and I like learning
 
 ## What I'm working on
 
-- [CareerFlow](https://github.com/adam-2005-99/careerflow) — a full-stack web app for tracking job applications
+- CareerFlow — a full-stack web app for tracking job applications
 - Machine learning from scratch — implementing ML algorithms to better understand how they work
 - Preparing for my final-year project on automatic news image captioning
 
