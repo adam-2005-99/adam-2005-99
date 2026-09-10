@@ -18,9 +18,6 @@ I'm interested in software development and machine learning, and I like learning
 **Databases:** PostgreSQL, MySQL  
 **Tools:** Git, Linux, Docker
 
-## Projects
-
-My main projects are pinned below, including CareerFlow, a Java Metrolink Journey Planner, and a machine learning Sentiment Analyser.
 
 ## Contact
 
