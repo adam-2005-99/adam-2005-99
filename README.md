@@ -1,56 +1,27 @@
-# 👋 Hi, I'm **Adam Atrash**  
-🎓 **Computer Science Student** | 💡 **Passionate Learner**  
+# Hi, I'm Adam
 
-Welcome to my GitHub!  
-I'm currently focused on **Machine Learning, Artificial Intelligence, and Software Development**.  
-I enjoy **building projects, exploring new technologies**, and learning how data-driven models work.
+I'm a Computer Science student at Lancaster University, graduating in 2027.
 
----
+I'm interested in software development and machine learning, and I like learning by building projects. Recently, I've been working with React, FastAPI and PostgreSQL on full-stack applications, alongside Python and scikit-learn for machine learning.
 
-## 🚀 About Me
-- 🎓 **Undergraduate CS student** passionate about **AI & Machine Learning**
-- 🧩 I love **solving problems** and learning by building projects
-- 📈 Currently improving my skills in:
-  - Machine Learning & Data Science
-  - Java-based Software Development
-- 🌱 Actively working on **hands-on projects** to strengthen my knowledge
+## What I'm working on
 
----
+- [CareerFlow](https://github.com/adam-2005-99/careerflow) — a full-stack web app for tracking job applications
+- Machine learning from scratch — implementing ML algorithms to better understand how they work
+- Preparing for my final-year project on automatic news image captioning
 
-## 🛠 Tech Stack
-**Languages:**  
-`Python` • `Java` • `C++` • `C`
+## Technologies
 
-**Tools & Libraries I'm Exploring:**  
-`scikit-learn` • `pandas` • `matplotlib`
+**Languages:** Python, Java, JavaScript, Haskell, C, C++  
+**Web:** React, FastAPI, SQLAlchemy  
+**Machine Learning & Data:** scikit-learn, pandas, NumPy  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, Linux, Docker
 
----
+## Projects
 
-## 📌 Featured Projects
+My main projects are pinned below, including CareerFlow, a Java Metrolink Journey Planner, and a machine learning Sentiment Analyser.
 
-### 🔹 [Sentiment Analyser](https://github.com/adam-2005-99/Sentiment-Analysis)  
-A **machine learning** project that predicts whether a review is **positive** or **negative** using an **SVM model** trained on the **IMDB dataset**.  
-- 🧠 **Tech:** Python, scikit-learn, pandas  
-- 📊 Accuracy: **~89%**  
-- 🔍 Supports **custom datasets** & model explainability
+## Contact
 
----
-
-### 🔹 [Metrolink Journey Planner](https://github.com/adam-2005-99/MetroLink-Journey-Planner)  
-A **Java GUI application** that finds the **fastest route** or **fewest line changes** across Manchester’s Metrolink network.  
-- 🛤 Tested on ~100 stations and 7 tram lines  
-- 🚇 Uses **graph-based routing** (Dijkstra’s)  
-- 🎨 Built with **Java Swing**
-
----
-
-### 🔹 [Guess Pixel Game (micro:bit)](https://github.com/adam-2005-99/Guess-Pixel-micro-bit)  
-A **two-player game** on BBC micro:bit where **Player 1** selects a pixel and **Player 2** guesses it.  
-- 🕹 Built with **C++** using **CODAL**  
-- Demonstrates **microcontroller programming** and interactive hardware
-
----
-
-## 📫 Connect With Me
-📧 **Email:** adam.m.m.atrash@gmail.com  
-🌐 **GitHub:** [github.com/adam-2005-99](https://github.com/adam-2005-99)
+[LinkedIn](https://linkedin.com/in/adam-atrash) · [Email](mailto:adam.m.m.atrash@gmail.com)
